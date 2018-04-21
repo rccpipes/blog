@@ -7,9 +7,15 @@ tags: [RCC pipes, IS 458 2003]
 comments: true
 ---
 
-At a very broad level, RCC pipes are classified as Pressure pipes (P) and Non-Pressure pipes. Pressure pipes have a hydrostatic pressure rating.
+At a very broad level, RCC pipes are classified as Pressure pipes (P) and Non-Pressure (NP) pipes. Pressure pipes have a hydrostatic pressure rating.
 
 Non-Pressure pipes are used where the fluids are carried by gravity.
+
+<figure>
+	<a href="http://pratikarccpipes.com/"><img src="http://pratikarccpipes.com/images/rcc-spun-pipe-hyderabad.jpg"></a>
+	<figcaption><a href="http://pratikarccpipes.com/" title="RCC pipe classification.">Classification of RCC Pipes
+</a>.</figcaption>
+</figure>
 
 | Class | Description | Conditions Where Normally Used |
 |:--------|:-------:|--------:|
