@@ -12,7 +12,7 @@ At a very broad level, RCC pipes are classified as Pressure pipes (P) and Non-Pr
 Non-Pressure pipes are used where the fluids are carried by gravity.
 
 <figure>
-	<a href="http://pratikarccpipes.com/"><img src="http://pratikarccpipes.com/images/rcc-spun-pipe-hyderabad.jpg"></a>
+	<a href="http://pratikarccpipes.com/"><img src="http://pratikarccpipes.com/images/rcc-spun-pipe-hyderabad.jpg" alt="Classification of RCC Pipes"></a>
 	<figcaption><a href="http://pratikarccpipes.com/" title="RCC pipe classification.">Classification of RCC Pipes
 </a>.</figcaption>
 </figure>
